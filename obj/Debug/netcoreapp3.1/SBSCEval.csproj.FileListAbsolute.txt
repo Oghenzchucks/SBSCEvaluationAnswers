@@ -1,0 +1,11 @@
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\bin\Debug\netcoreapp3.1\SBSCEval.exe
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\bin\Debug\netcoreapp3.1\SBSCEval.deps.json
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\bin\Debug\netcoreapp3.1\SBSCEval.runtimeconfig.json
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\bin\Debug\netcoreapp3.1\SBSCEval.runtimeconfig.dev.json
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\bin\Debug\netcoreapp3.1\SBSCEval.dll
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\bin\Debug\netcoreapp3.1\SBSCEval.pdb
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\obj\Debug\netcoreapp3.1\SBSCEval.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\obj\Debug\netcoreapp3.1\SBSCEval.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\obj\Debug\netcoreapp3.1\SBSCEval.AssemblyInfo.cs
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\obj\Debug\netcoreapp3.1\SBSCEval.dll
+C:\Users\MSI\Documents\Personal\SBSCEval\SBSCEval\obj\Debug\netcoreapp3.1\SBSCEval.pdb
