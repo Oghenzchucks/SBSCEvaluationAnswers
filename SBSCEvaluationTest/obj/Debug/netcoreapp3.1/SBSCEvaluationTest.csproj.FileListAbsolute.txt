@@ -1,0 +1,11 @@
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\bin\Debug\netcoreapp3.1\SBSCEvaluationTest.exe
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\bin\Debug\netcoreapp3.1\SBSCEvaluationTest.deps.json
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\bin\Debug\netcoreapp3.1\SBSCEvaluationTest.runtimeconfig.json
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\bin\Debug\netcoreapp3.1\SBSCEvaluationTest.runtimeconfig.dev.json
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\bin\Debug\netcoreapp3.1\SBSCEvaluationTest.dll
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\bin\Debug\netcoreapp3.1\SBSCEvaluationTest.pdb
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\obj\Debug\netcoreapp3.1\SBSCEvaluationTest.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\obj\Debug\netcoreapp3.1\SBSCEvaluationTest.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\obj\Debug\netcoreapp3.1\SBSCEvaluationTest.AssemblyInfo.cs
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\obj\Debug\netcoreapp3.1\SBSCEvaluationTest.dll
+C:\Users\MSI\Documents\Personal\SBSCEval2\SBSCEvaluationTest\obj\Debug\netcoreapp3.1\SBSCEvaluationTest.pdb
