@@ -42,11 +42,28 @@ namespace SBSCEval
             }
 
             // Checks to see if all values in the array are the same.
-            bool result = Array.TrueForAll(diff, y => diff[0] == diff[1]);
-
+            int a;
+            for (a = 1; a < diff.Length; a++)
+            {
+                if (diff[0] == diff[a])
+                    continue;
+                else
+                    break;
+            }
 
             // Output the final result
-            Console.WriteLine("TRUEFORALL: {0}", result);
+            if (a == 4)
+            {
+                Console.WriteLine("True");
+            }
+            else
+            {
+                Console.WriteLine("False");
+            }
+                
+
+
+            
 
             #endregion
 
